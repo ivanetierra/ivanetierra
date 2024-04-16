@@ -4,11 +4,7 @@
 - 💻 Self-motivated Junior Developer
 - 🎯 Committed to an IT career as a software developer
 - ⚡ Passion to learn new technologies 
-- 🔭 Academically trained in Java / Spring (IT Academy - Barcelona Activa)
-- ⚽ Recently collaborated on this [Project](https://github.com/it-academyproject/ITProject-Soccer-Backend)
-- 💼 Currently building our own App [WhattaCook](https://github.com/WhattaCookProject/NewWhattaCook)
-- 📃 Here's my [LinkedIn](https://www.linkedin.com/in/martin-guilhem/)
-
+- 🔭 Academically trained 
 
 
 ## My skills include:
