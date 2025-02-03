@@ -25,8 +25,6 @@
   
   <!-- Databases -->
   <img title="MySQL" alt="MySQL" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="80" /> &ensp;
-  <img title="MongoDB" alt="MongoDB" src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" height="80" /> &ensp;
-  <img title="Firestore" alt="Firestore" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Firestore_Logo.svg" height="80" /> &ensp;
   
   <!-- Backend & Cloud -->
   <img title="Node.js" alt="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="80" /> &ensp;
@@ -34,9 +32,6 @@
   <img title="Firebase" alt="Firebase" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" height="80" /> &ensp;
   
   <!-- Methodologies & Tools -->
-  <img title="Scrum" alt="Scrum" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Scrum_logo.png" height="80" /> &ensp;
-  <img title="Agile" alt="Agile" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Agile.svg" height="80" /> &ensp;
-  <img title="Jira" alt="Jira" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Jira_logo.svg" height="80" />
 </span>
 
 #### Conversant:
